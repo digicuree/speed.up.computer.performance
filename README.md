@@ -1,4 +1,4 @@
-speed up computer performance
+# Speed up computer performance
 
 [![speed up computer performance](redd.png)](https://icncomputer.com/speed-up-computer-performance/)
 
